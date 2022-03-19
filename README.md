@@ -7,7 +7,7 @@
 
 - 🚀 My personal page is not available yet :(.
 
-- 💬 Ask me about **Rocket Science and planes firstly ;) then HTML,CSS,JavaScript.**
+- 💬 Ask me about **Rocket Science and aircrafts firstly ;) then HTML,CSS,JavaScript.**
 
 - 📫 How to reach me **arslanberkcan06@gmail.com**
  </p>
