@@ -2,7 +2,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=berkcanarslan&color=blueviolet)
   
 - 🌱 I’m currently working with **HTML,CSS,Javascript**
 
