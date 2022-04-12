@@ -1,7 +1,8 @@
-<h2 align="center">Hello there! 🌌 I'm Berkcan</h1>
+<h2 align="center">Hello there! ✈︎ I'm Berkcan 🚁 </h1>
 
 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
   
 - 🌱 I’m currently working with **HTML,CSS,Javascript**
 
