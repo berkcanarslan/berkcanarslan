@@ -1,22 +1,16 @@
-<h2 align="center">Hello there! ✈︎ I'm Berkcan 🚁 </h1>
+<h1 align="center">Hi 👋🏻, I'm Berkcan Arslan</h1>
+<h3 align="center"> Junior Software Engineer</h3>
 
-
-
-![](https://komarev.com/ghpvc/?username=berkcanarslan&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcanarslan&label=Profile%20views&color=0e75b6&style=flat" alt="berkcanarslan" /> </p>
   
-- 🌱 I’m currently working with **HTML,CSS,Javascript**
-
-- 🚀 My personal page is not available yet :(.
-
-- 💬 Ask me about **Rocket Science and aircrafts firstly ;) then HTML,CSS,JavaScript.**
-
 - 📫 How to reach me **arslanberkcan06@gmail.com**
- </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/berkcanarslan/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="berkcanarslan" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/18228410/berkcanarslan" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="18228410" height="45" width="45" /></a>
+<a href="https://linkedin.com/in/berkcanarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkcanarslan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18228410/berkcanarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18228410/berkcanarslan" height="30" width="40" /></a>
+<a href="https://medium.com/@berkcan.arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkcan.arslan" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
