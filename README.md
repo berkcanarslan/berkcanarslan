@@ -28,4 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkcanarslan&show_icons=true&theme=radical&locale=en&layout=compact" alt="berkcanarslan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkcanarslan&show_icons=true&theme=dark&locale=en" alt="berkcanarslan" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkcanarslan&show_icons=true&theme=dark&locale=en" alt="berkcanarslan" /></p>
+<br/>
